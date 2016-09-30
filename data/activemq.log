@@ -1,0 +1,154 @@
+2016-09-29 17:28:53,387 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Thu Sep 29 17:28:53 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-29 17:28:54,527 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-29 17:28:54,527 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-29 17:28:54,558 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-29 17:28:54,932 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-29 17:28:54,932 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-29 17:28:55,166 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-29 17:28:55,166 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-29 17:28:55,182 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-58623-1475150334979-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-29 17:28:55,229 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-29 17:28:55,354 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-29 17:28:55,447 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-29 17:28:55,915 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-29 17:28:55,962 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-29 17:28:55,978 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-29 17:28:56,087 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 10:10:27,720 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 10:10:27 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 10:10:29,108 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 10:10:29,108 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 10:10:29,123 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:10:29,747 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:10:29,919 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:10:29,919 | INFO  | Recovery replayed 2 operations from the journal in 0.156 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:10:29,919 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:10:29,919 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:10:30,153 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 10:10:30,153 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 10:10:30,168 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-61739-1475210429950-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:10:30,246 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 10:10:30,777 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 10:10:31,026 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 10:10:31,790 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 10:10:31,853 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 10:10:31,946 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 10:10:32,024 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 10:12:44,537 | INFO  | ActiveMQ Message Broker (localhost, ID:PC308393-61739-1475210429950-0:1) is shutting down | org.apache.activemq.broker.BrokerService | ActiveMQ ShutdownHook
+2016-09-30 10:12:44,537 | INFO  | ActiveMQ Message Broker (localhost, ID:PC308393-61739-1475210429950-0:1) is shutting down | org.apache.activemq.broker.BrokerService | Thread-17
+2016-09-30 10:12:44,537 | INFO  | Connector openwire Stopped | org.apache.activemq.broker.TransportConnector | Thread-17
+2016-09-30 10:13:00,228 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 10:13:00 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 10:13:00,771 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 10:13:00,771 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 10:13:00,786 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:13:01,286 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:13:01,351 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:13:01,351 | INFO  | Recovery replayed 2 operations from the journal in 0.049 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 10:13:01,382 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:13:01,382 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:13:01,569 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 10:13:01,569 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 10:13:01,569 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-61787-1475210581398-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 10:13:01,616 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 10:13:01,788 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 10:13:01,850 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 10:13:01,944 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 10:13:01,959 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 10:13:01,992 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 10:13:02,008 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 11:12:38,306 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:63369
+2016-09-30 11:28:59,198 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:63408
+2016-09-30 11:58:38,721 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:63657
+2016-09-30 12:06:06,017 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:64587
+2016-09-30 12:08:39,334 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:64673
+2016-09-30 12:11:33,966 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:64748
+2016-09-30 12:16:14,683 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 12:16:14 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 12:16:16,222 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 12:16:16,222 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 12:16:16,253 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:16:16,861 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:16:17,111 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:16:17,111 | INFO  | Recovery replayed 2 operations from the journal in 0.203 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:16:17,158 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:16:17,158 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:16:17,563 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 12:16:17,563 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 12:16:17,579 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-64980-1475217977251-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:16:17,766 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 12:16:18,216 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 12:16:18,419 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 12:16:18,699 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 12:16:18,793 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 12:16:18,840 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 12:16:18,949 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 12:28:23,612 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:65008
+2016-09-30 12:31:24,843 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:65353
+2016-09-30 12:32:02,899 | INFO  | Connector vm://localhost Started | org.apache.activemq.broker.TransportConnector | qtp10330637-25
+2016-09-30 12:34:37,220 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 12:34:37 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 12:34:37,741 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 12:34:37,745 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 12:34:37,758 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:34:38,377 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:34:38,452 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:34:38,458 | INFO  | Recovery replayed 3 operations from the journal in 0.069 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 12:34:38,485 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:34:38,486 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:34:38,684 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 12:34:38,684 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 12:34:38,684 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-65507-1475219078496-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 12:34:38,731 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 12:34:38,856 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 12:34:38,918 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 12:34:39,012 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 12:34:39,058 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 12:34:39,074 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 12:34:39,090 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 12:38:27,642 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49177
+2016-09-30 12:40:52,895 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49249
+2016-09-30 12:41:46,335 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49269
+2016-09-30 12:43:08,888 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49311
+2016-09-30 12:44:20,294 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49342
+2016-09-30 12:45:38,461 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49376
+2016-09-30 12:48:06,479 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49430
+2016-09-30 13:44:04,353 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:49982
+2016-09-30 13:46:32,343 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:50110
+2016-09-30 13:49:51,770 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:50123
+2016-09-30 13:50:51,803 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:50152
+2016-09-30 13:51:58,014 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 13:51:58 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 13:51:58,492 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 13:51:58,492 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 13:51:58,492 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 13:51:59,256 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 13:51:59,350 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 13:51:59,350 | INFO  | Recovery replayed 2 operations from the journal in 0.078 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 13:51:59,366 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 13:51:59,366 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 13:51:59,584 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 13:51:59,584 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 13:51:59,584 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-50190-1475223719381-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 13:51:59,631 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 13:51:59,740 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 13:51:59,802 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 13:51:59,912 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 13:51:59,927 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 13:51:59,974 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 13:51:59,990 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 14:06:44,284 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1ebcae2: startup date [Fri Sep 30 14:06:44 IST 2016]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | main
+2016-09-30 14:06:46,361 | WARN  | destroyApplicationContextOnStop parameter is deprecated, please use shutdown hooks instead | org.apache.activemq.xbean.XBeanBrokerService | main
+2016-09-30 14:06:46,376 | INFO  | PListStore:D:\Softwares\apache-activemq-5.5.1\bin\..\data\localhost\tmp_storage started | org.apache.activemq.store.kahadb.plist.PListStore | main
+2016-09-30 14:06:46,424 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\Softwares\apache-activemq-5.5.1\bin\..\data\kahadb] | org.apache.activemq.broker.BrokerService | main
+2016-09-30 14:06:47,268 | INFO  | KahaDB is version 3 | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 14:06:47,568 | INFO  | Recovering from the journal ... | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 14:06:47,569 | INFO  | Recovery replayed 2 operations from the journal in 0.291 seconds. | org.apache.activemq.store.kahadb.MessageDatabase | main
+2016-09-30 14:06:47,626 | INFO  | ActiveMQ 5.5.1 JMS Message Broker (localhost) is starting | org.apache.activemq.broker.BrokerService | main
+2016-09-30 14:06:47,626 | INFO  | For help or more information please see: http://activemq.apache.org/ | org.apache.activemq.broker.BrokerService | main
+2016-09-30 14:06:47,918 | INFO  | Listening for connections at: tcp://PC308393:61616 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2016-09-30 14:06:47,919 | INFO  | Connector openwire Started | org.apache.activemq.broker.TransportConnector | main
+2016-09-30 14:06:47,933 | INFO  | ActiveMQ JMS Message Broker (localhost, ID:PC308393-50433-1475224607701-0:1) started | org.apache.activemq.broker.BrokerService | main
+2016-09-30 14:06:48,080 | INFO  | jetty-7.1.6.v20100715 | org.eclipse.jetty.util.log | main
+2016-09-30 14:06:48,595 | INFO  | ActiveMQ WebConsole initialized. | org.apache.activemq.web.WebConsoleStarter | main
+2016-09-30 14:06:48,766 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | main
+2016-09-30 14:06:49,094 | INFO  | ActiveMQ Console at http://0.0.0.0:8161/admin | org.eclipse.jetty.util.log | main
+2016-09-30 14:06:49,141 | INFO  | ActiveMQ Web Demos at http://0.0.0.0:8161/demo | org.eclipse.jetty.util.log | main
+2016-09-30 14:06:49,172 | INFO  | RESTful file access application at http://0.0.0.0:8161/fileserver | org.eclipse.jetty.util.log | main
+2016-09-30 14:06:49,312 | INFO  | Started SelectChannelConnector@0.0.0.0:8161 | org.eclipse.jetty.util.log | main
+2016-09-30 14:08:16,372 | INFO  | Transport failed: java.net.SocketException: Connection reset | org.apache.activemq.broker.TransportConnection.Transport | ActiveMQ Transport: tcp:///127.0.0.1:50436
